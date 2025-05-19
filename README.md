@@ -50,7 +50,7 @@ for host in nock1 nock2 nock3 nock4 nock5 nock6 nock7 nock8 nock9; do
     ssh $host "pip3 install base58 solders"
 done
 ```
-to istall dependencies in each mac mini, change the hostnames accordingly. 
+to install dependencies in each mac mini, change the hostnames accordingly. 
 
 Or, if no requirements file is present, install needed packages individually.
 
