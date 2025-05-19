@@ -25,7 +25,7 @@ This project lets you search for Solana vanity addresses using a cluster of Mac 
 On your controller Mac (the one you use to manage the cluster):
 
 ```bash
-git clone https://github.com/0xdarkcap/solana-vanity-cluster.git
+git clone [https://github.com/0xdarkcap/solana-vanity-cluster.git](https://github.com/0xdarkcap/Solana-Vanity-mac-mini-cluster.git)
 cd solana-vanity-cluster
 ```
 
