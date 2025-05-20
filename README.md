@@ -1,6 +1,6 @@
 # Solana Vanity Address Cluster
 
-This project lets you search for Solana vanity addresses using a cluster of Mac Minis. The search is parallelized across all available CPU cores in the cluster. Once any node finds a matching address, the cluster terminates the search on all other nodes and returns the result.
+[NO SECURITY GURANTEE]. This is 100% insecure, use at your own risk. This project lets you search for Solana vanity addresses using a cluster of Mac Minis. The search is parallelized across all available CPU cores in the cluster. Once any node finds a matching address, the cluster terminates the search on all other nodes and returns the result.
 
 ## Project Structure
 
